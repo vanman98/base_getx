@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649601536884",
+    "project_id": "basegetx-d049d",
+    "storage_bucket": "basegetx-d049d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649601536884:android:b3610de395d45ba7865221",
+        "android_client_info": {
+          "package_name": "com.man.base_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCX9etLHGzgny0xD0NLUa729zlOlfu20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
